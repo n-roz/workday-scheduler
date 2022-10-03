@@ -1,4 +1,4 @@
-# Third-Party APIs: Work Day Scheduler Starter Code
+# Third-Party APIs: Work Day Scheduler
 HTML, CSS, and jQuery
 
 A simple calendar application that allows a user to save events for each hour of the workday.
