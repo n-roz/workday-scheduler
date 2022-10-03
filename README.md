@@ -33,4 +33,4 @@ The website is depicted in the image below.
 <img src="docs/Screen Shot 2022-10-03 at 2.07.20 PM.png"></img>
 
 ## Development Environment:
-I used Visual Studio Code, Terminal, and Git.
+I used Visual Studio Code, Terminal, Moment.js and Git.
