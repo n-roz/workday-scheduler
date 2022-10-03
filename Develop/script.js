@@ -24,24 +24,7 @@
 
     // IGNORE ALL THE CODE ABOVE. THIS WAS PART OF MY DEVELOPMENT PROCESS AND I'M KEEPING 
     // THE CODE HERE FOR MY OWN BENEFIT
-
-    // PSEUDO CODE //
-    // add current day to display under header
-    // add text content of current day and append to the <p> element in the header
-    // add time blocks to div container using jquery (3 columns in a row, 9 rows):
-    //  - first time
-    //  - then task container
-    //  - last save button
-    // create formatting feature to color-code timeblocks:
-    //  - gray for past
-    //  - red for current
-    //  - green for future
-    // add functionality so when user clicks into timeblock:
-    //  - can edit the text content on focus
-    //  - lock the content on blur
-    // when user clicks the save button the text for the event saves into local storage via an array object
-    // when user refreshes page, get the object array from local storage and recreate the events on the page
-    // END PSEUDO CODE //
+    
 
     var saveButton = document.getElementsByClassName("saveBtn");
     var currentDay = moment().format('dddd MMMM Do YYYY');
