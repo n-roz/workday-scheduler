@@ -3,10 +3,7 @@ HTML, CSS, and jQuery
 
 A simple calendar application that allows a user to save events for each hour of the workday.
 
-<a href="https://necro17.github.io/code-quiz/">View my project here.</a>
-
-## Challenges
-Like my last assignment, I had trouble with Git. At first, I could not get Git to work at all with my Github. I spent time troubleshooting and in the end what worked was deleting my old repository and creating a new one. I also had to use git push -f origin main a few times. It worked in the end but it was a big headache!
+<a href=" INSERT URL ">View my project here.</a>
 
 ## User Story
 
